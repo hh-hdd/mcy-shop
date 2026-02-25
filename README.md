@@ -1,3 +1,4 @@
+# 萌次元发卡系统 最新版
 <p align="center">
   <a href="https://wiki.mcy.im">
     <img src="favicon.ico" width="120" height="120" style="border-radius: 20px;" alt="异次元店铺系统">
